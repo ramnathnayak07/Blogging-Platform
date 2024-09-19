@@ -22,7 +22,19 @@ The application incorporates various technologies. Redux Toolkit is utilized to 
 -   Responsive design for mobile devices
 -   Progressive Web App (PWA) support
 
+To view Project: <a href="https://the-blog-app-zp54.onrender.com/">Click here</a><br>
+
 ## Technologies
+
+Frontend:
+
+- React
+- Redux
+
+Backend:
+
+- Node.js
+- Express
 
 
 ## Setup
@@ -41,7 +53,7 @@ Install the dependencies:
 
 ```bash
 # Install the dependencies for the root directory, frontend, and backend
-$ cd blog-app-mern/
+$ cd blogging-platform/
 $ npm run postinstall
 ```
 
