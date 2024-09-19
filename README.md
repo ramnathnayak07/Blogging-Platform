@@ -26,6 +26,7 @@ To view Project: <a href="https://the-blog-app-zp54.onrender.com/">Click here</a
 
 ## Technologies
 
+
 Frontend:
 
 - React
