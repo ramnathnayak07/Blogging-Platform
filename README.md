@@ -1,4 +1,4 @@
-# Blog Application
+# Blogging Platform
 
 This is a full-stack web application built with React, Node.js, Express, and PostgreSQL that showcases the functionality of a blogging platform. Users can create their own blog posts, explore posts from other users, engage with them by liking and commenting, and manage their profile information.
 </br>
@@ -34,7 +34,7 @@ Follow the instructions below to run the application locally.
 Clone the repository:
 
 ```bash
-$ git clone https://github.com/ke444a/blog-app-mern.git
+$ git clone https://github.com/ramnathnayak07/blogging-platform.git
 ```
 
 Install the dependencies:
@@ -57,7 +57,7 @@ Run the application:
 
 ```bash
 # Run the frontend and backend concurrently
-$ cd blog-app-mern/
+$ cd blogging-platform/
 $ npm run dev
 ```
 
@@ -87,10 +87,3 @@ CLOUDINARY_API_KEY=API_KEY
 CLOUDINARY_API_SECRET=API_SECRET
 CLOUDINARY_CLOUD_NAME=CLOUD_NAME
 ```
-
-## Contact
-
--   LinkedIn: [Danyl Kecha](https://www.linkedin.com/in/danylkecha/)
--   Mail: danyl.kecha.uk@gmail.com
--   GitHub: [ke444a](https://github.com/ke444a)
--   Twitter: [@ke444a](https://twitter.com/ke444a)
