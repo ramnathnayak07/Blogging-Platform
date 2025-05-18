@@ -22,8 +22,6 @@ The application incorporates various technologies. Redux Toolkit is utilized to 
 -   Responsive design for mobile devices
 -   Progressive Web App (PWA) support
 
-To view Project: <a href="https://the-blog-app-zp54.onrender.com/">Click here</a><br>
-
 ## Technologies
 
 
